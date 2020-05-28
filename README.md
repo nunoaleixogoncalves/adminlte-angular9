@@ -4,6 +4,17 @@ this is based on adminlte 3 free edition https://adminlte.io/themes/v3/ in angul
 
 simple project based on dminlte 3 bootstrap template, transformed to be used in angular as individual components.
 
+use:
+
+$ npm run start 
+
+or
+
+$ ng serve
+
+
+go to localhost:4200
+
 
 ![template_image](https://i.imgur.com/Hn4YlQb.png)
 
