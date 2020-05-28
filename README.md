@@ -1,6 +1,14 @@
 # Adminlte
 
-this is based on adminlte 3 free edition https://adminlte.io/themes/v3/
+this is based on adminlte 3 free edition https://adminlte.io/themes/v3/ in angular v9
+
+simple project based on dminlte 3 bootstrap template, transformed to be used in angular as individual components.
+
+
+![template_image](https://i.imgur.com/Hn4YlQb.png)
+
+
+
 
 AdminLTE is a fully responsive administration template. Based on Bootstrap 4 framework. Highly customizable and easy to use. Fits many screen resolutions from small mobile devices to large desktops.  (https://github.com/ColorlibHQ/AdminLTE)
 
